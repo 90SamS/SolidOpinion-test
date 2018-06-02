@@ -1,0 +1,1 @@
+# SolidOpinion-test
