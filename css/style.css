@@ -1,0 +1,19 @@
+@font-face {
+font-family: "Open sans bold"; 
+src: url("../fonts/OpenSans-Bold.ttf") format("truetype"); 
+font-style: normal; 
+font-weight: normal; 
+} 
+
+.Live-Token a{
+	font-family: "Open sans bold";  
+}
+.slider{
+	width: 1024px;
+	margin: auto;
+	margin-top: 20px;
+}
+.slider .slide{
+	height: 410px;
+	overflow: hidden;
+}
